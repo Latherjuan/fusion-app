@@ -1,0 +1,8 @@
+.env
+node_modules/
+_site/
+.DS_Store
+Thumbs.db
+# respaldos de usuarias (contienen datos de clientes)
+fusion-respaldo-*.json
+fusion_respaldo_*.json
